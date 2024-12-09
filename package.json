@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  },
+  "dependencies": {
+    "play-sound": "^1.1.6",
+    "puppeteer": "^21.11.0"
+  }
+}
